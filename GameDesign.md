@@ -27,3 +27,5 @@ If the player loses it will have an lose effect.
 
 Players eyes are googly eyes and the ball has googly eyes too.
 
+![all](https://user-images.githubusercontent.com/65111601/86856196-c9e5f480-c0f6-11ea-9afd-bb185d704f2c.png)
+
