@@ -77,7 +77,7 @@ For example, if a student had the login name fun.frank then the appropriate file
 - [X] **All** Source Code has a proper header comment: Name, Project Name, Course Number, Term & Year. 
 - [X] Properly named zip file.
 - [X] Game Design Document
-- [ ] [**core**] Programming Concepts document
+- [x] [**core**] Programming Concepts document
 - [ ] [**core**] Implemented your own game using `p5.js`
 - [ ] All requirements that are completed are checked off here by replacing the `[ ]` with `[x]`
 
