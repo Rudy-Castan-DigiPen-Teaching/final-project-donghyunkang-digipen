@@ -5,6 +5,8 @@
 
 
 **1.	Shapes**
+
+
 Shapes are showing us the shape in the screen using p5.js syntax. Shapes functions are ‘arc(),
 
 ellipse(), circle(), line(), point(), quad(), rect(), square(), triangle()’ and also we can make shapes using
@@ -25,6 +27,8 @@ in sketch.js line number 331.
 
 
 **2.	Colors**
+
+
 Colors are filling the shapes or the background or many things. We can color it using fill() when we
 
 fill something like shapes. We can also use stroke(). It makes the color of the outline. When we 
@@ -51,6 +55,8 @@ Hexadecimal color code it is ‘#F28482’. This example is in the Mainmenu.js l
 
 
 **3.	Variables**
+
+
 A variable stores a value in memory so that it can be used later in a program. We can change the 
 
 value easily while the program is running. We can use variables using var, let and const. We say this 
@@ -73,6 +79,8 @@ active_sign = false’ in the Win_ai.js line number 7 and ‘let End_score = 5�
 
 
 **4.	Conditional Statements**
+
+
 Conditional statements are making the situation and responds to the situation. Like what if this one 
 
 does this? Then the statement will be this. In conditional statements we use simple operators like 
@@ -101,6 +109,8 @@ CreditsScene.Draw(); break; ~~~} in sketch.js line number 55.
 
 
 **5.	Loops**
+
+
 Loops are making thing again and again before it requires the test. In loops we have for loop and
 
 while loop. We can make nested loop too. These loops are using also like the operators. We can 
@@ -123,6 +133,8 @@ can make the computer stop. In my game, for example, for (let val_y = 0; val_y <
 
 
 **6.	Functions**
+
+
 When we write functions to computer, computer will show the function. This is a broad perspective 
 
 of functions. But in the narrow perspective, we can make function. Making function is like making 
@@ -145,6 +157,8 @@ reset_score()}} in sketch.js line number 219 this makes who will win.
 
 
 **7.	Classes**
+
+
 Classes are using for an object orientated programming. Classes makes encapsulation and making 
 
 a chunk of data with functionality or behavior. In class, we make constructor() which is to make the
@@ -169,6 +183,8 @@ circle(this.position.x, this.position.y, 5); pop();}} in Particle.js line 6. I u
 
 
 **8.	Arrays**
+
+
  Array is a list of variables that have each sector and name. Array is starting from 0, so we should 
  
  be careful about the order. We can make dungeons using 2D arrays. This is important because it 
