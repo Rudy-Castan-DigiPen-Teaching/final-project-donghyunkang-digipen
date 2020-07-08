@@ -5,7 +5,8 @@
 
 Game Design Document
 
-My game name is 'Rok's Volley Pong'. I named like this because it is based on 'Pong'.\n
+My game name is 'Rok's Volley Pong'. I named like this because it is based on 'Pong'.
+
 Rok is my character's name. He has googly eyes.
 
 Blue Rok and red Rok fight each other using ball with the googly eyes.
