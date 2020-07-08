@@ -7,7 +7,7 @@
 
 He is my friend and allowed me to use it because he made it just for me.
 
-He is freshman of 'Seoul Arts'.
+He is freshman of 'Seoul Institute of the arts'.
 
 'Hit_Hurt4.wav','score.wav','Win_effect.wav' and 'Lose_effect.wav' is made by Donghyun Kang(it's me).
 
